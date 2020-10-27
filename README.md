@@ -1,4 +1,6 @@
-![Banner Polimorfismo](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/banner_polimorfismo.png)
+<p align="center">
+  <img width="800" height="200" src="https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/banner_polimorfismo.png">
+</p>
 
 # MyCard
 
