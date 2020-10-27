@@ -1,16 +1,26 @@
-# my_card
+![Banner Polimorfismo](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/banner_polimorfismo.png)
 
-Cartão pessoal - Curso de Flutter e Dart.
+# MyCard
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Agora que você viu como criar um aplicativo Flutter completamente do zero nós vamos aprender mais sobre como projetar a interface de usuário.
 
-A few resources to get you started if this is your first Flutter project:
+## O que nós iremos criar?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+O app MyCard é um cartão de visita pessoal. Você pode mostrá-lo a qualquer pessoa e pode também falar para as pessoas baixarem ele na loja de aplicativos.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## O que nós iremos aprender?
+
+* Como criar widgets Stateless.
+* Entender a diferença entre o Hot Reload e o Hot Restart.
+* Como usar o widget Container.
+* Como posicionar elementos da interface usando os widgets Row e Column.
+* Como adicionar fontes personalizadas.
+* Como trabalhar com os ícones do Material Design.
+* Como personalizar os widgets de Texto.
+* Como ler e entender a documentação do Flutter
+
+
+
+>O curso completo pode ser encontrado gratuitamente no nosso canal do YouTube [Polimorfismo](https://youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA/)
