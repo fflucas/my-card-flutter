@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="200" src="https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/banner_polimorfismo.png">
+  <img src="https://github.com/fflucas/my-card-flutter/blob/master/images/tela%20app.png">
 </p>
 
 # MyCard
